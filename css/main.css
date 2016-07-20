@@ -1,0 +1,93 @@
+#div{
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.p{
+  font-size: x-large;
+  margin: 0%;
+}
+
+.espacio_r{
+  margin-top: 4%;
+}
+
+hr{
+  border: 3px solid grey;
+  margin: 0% 41.666665%;
+}
+
+#linea{
+  margin-left: 0px;
+  border-color: black;
+  background-color: black;
+}
+
+.p1{
+  font-size: xx-large;
+  margin: 0% 16.6666665%;
+}
+
+.display{
+  display: inline-block;
+  position: relative;
+}
+
+.div_padre{
+  width: auto;
+  margin: 0% 12.9666665%;
+}
+
+.p_coders{
+  bottom: 10px;
+  position: absolute;
+  right: 10px;
+  font-size: large;
+  color: white;
+}
+
+
+/*Coder-detail*/
+
+.div_p{
+  border: 2px solid grey;
+}
+
+.img_contacto{
+  border-radius: 50%;
+  margin:0% 30%;
+}
+
+.p_h{
+  background-color:grey; 
+  margin-left: 5%;
+}
+
+.habi{
+  height: 70px;
+}
+
+/* .div_habilidades{
+  margin-top: 2%;
+  margin-bottom: 5%;
+} */
+
+.img_port{
+  height: 30.333333%;
+  width: 30.333333%;
+}
+
+.dis_port{
+  display: inline;
+  position: relative;
+}
+
+.mar_port{
+  margin: 12.2px;
+}
+
